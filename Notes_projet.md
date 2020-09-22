@@ -8,8 +8,6 @@
     4.  [Plan provisoire](#org73be7d5)
     5.  [Base de données](#org45af751)
 
-
-
 <a id="org5858548"></a>
 
 # Première recherche sur le sujet :
@@ -19,17 +17,15 @@
 
 ## Ressources
 
--   <https://mathematicallysafe.wordpress.com/>: un site qui propose des articles sur l'analyse de données de la premier league de 2015 à 2019
+- <https://mathematicallysafe.wordpress.com/>: un site qui propose des articles sur l'analyse de données de la premier league de 2015 à 2019
 
--   
+- <https://towardsdatascience.com/beating-the-fantasy-premier-league-game-with-python-and-data-science-cf62961281be>: un article qui parle de comment deux personnes ont utilisé l'analyse de données pour choisir les joueurs pour le FPL. 
 
-<https://towardsdatascience.com/beating-the-fantasy-premier-league-game-with-python-and-data-science-cf62961281be>: un article qui parle de comment deux personnes ont utilisé l'analyse de données pour choisir les joueurs pour le FPL. 
+- <https://arxiv.org/pdf/1912.07441.pdf>: une publication scientifique sur l'analyse de données pour le FPL. Ils observent que la plus part des prédictions sont faites uniquement sur les données historiques et ne prends donc pas en comptes les blessures, et autres décisions extérieurs. Ils utilisent pour ça Twitter.
 
--   <https://arxiv.org/pdf/1912.07441.pdf>: une publication scientifique sur l'analyse de données pour le FPL. Ils observent que la plus part des prédictions sont faites uniquement sur les données historiques et ne prends donc pas en comptes les blessures, et autres décisions extérieurs. Ils utilisent pour ça Twitter.
+- <https://builtin.com/data-science/data-analytics-fantasy-football>: un article sur l'évolution de la prédiction des données dans le monde des fantasy leagues.
 
--   <https://builtin.com/data-science/data-analytics-fantasy-football>: un article sur l'évolution de la prédiction des données dans le monde des fantasy leagues.
-
--   <https://www.reddit.com/r/NBAanalytics/> : subreddit sur l'analyse de données de la nba.
+- <https://www.reddit.com/r/NBAanalytics/> : subreddit sur l'analyse de données de la nba.
 
 
 <a id="orga4729d5"></a>
