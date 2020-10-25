@@ -34,7 +34,7 @@
 
 Ce fantasy league est un peu différente des autres que j'ai pu voir comme FPL. Ici on n'a pas à payer pour avoir accès aux joueurs mais on a une limite de choix (chaque joueur ne peut être choisi qu'un fois tout les trente jours)
 Chaque soir il faut choisir un joueur parmis toute la league qui rapportera le plus de points.
-Les points sont calculés par une formule qui ne nous est pas donnée.
+Les points sont calculés par une formule qui nous est donnée.
 
 
 <a id="org063b0cd"></a>
