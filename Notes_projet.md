@@ -36,6 +36,7 @@ Ce fantasy league est un peu différente des autres que j'ai pu voir comme FPL. 
 Chaque soir il faut choisir un joueur parmis toute la league qui rapportera le plus de points.
 Les points sont calculés par une formule qui nous est donnée.
 
+https://trashtalk.co/2019/10/20/le-guide-officiel-pour-bien-debuter-en-ttfl-par-ici-pour-se-lancer-dans-la-trashtalk-fantasy-league/
 
 <a id="org063b0cd"></a>
 
@@ -70,7 +71,8 @@ $$Score = Bonus - Malus
         -   Choisir les bases de données
         -   Ajouter des données journalistiques type twitter ?
         -   Choisir les variables
-
+    - Prédiction de son score TTFL uniquement 
+        - Peut-on prédire certains score 'out of nowhere' (eg Tyler herro en playoff)
 -   Prendre en compte la limite de 30 jours ? 
     -   Comprendre les implications
     -   Quelles contraintes peut on rajouter pour le prendre en compte
