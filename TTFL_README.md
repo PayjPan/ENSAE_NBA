@@ -28,7 +28,7 @@ Nous utilisons les données fournies par l'API pour construire et enrichir notre
 
 ## Analyse 
 Nous commençons par faire quelques statistiques descriptives sur notre base. Nous les utilisons pour répondre aux premières questions que se posent le joueur TTFL au moment de faire son choix.
-
+[Analyse](<../master/rendu/4 - Analyse.ipynb>)
 ## Prédiction
 Nous explorons des modèles de Machine Learning (Lasso, Ridge, RandomForest) afin de prédire le score TTFL.
 [Prédiction](<../master/rendu/5 - Modèles.ipynb>)
