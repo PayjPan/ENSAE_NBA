@@ -16,7 +16,7 @@ Vous trouverez 5 notebooks, chacun correspondant à une étape du projet.
 
 ## Exploration
 Nous nous familiarisons avec l'API **nba-api**, qui met à disposition de nombreuses bases de données autour de la NBA
-[Exploration](../rendu/1 - Exploration.ipynb)
+[Exploration](../rendu/1\ -\ Exploration.ipynb)
 
 ## Récupération
 Nous récupérons les données nécéssaires à la construction d'un grande base de données qui sera analysée et utilisée pour faire de la prédiction?
