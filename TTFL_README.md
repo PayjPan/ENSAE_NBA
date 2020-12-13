@@ -20,18 +20,18 @@ Nous nous familiarisons avec l'API **nba-api**, qui met à disposition de nombre
 
 ## Récupération
 Nous récupérons les données nécéssaires à la construction d'un grande base de données qui sera analysée et utilisée pour faire de la prédiction?
-[Récupération](../rendu/2 - Récupération.ipynb)
+[Récupération](<../rendu/2 - Récupération.ipynb>)
 
 ## Préparation
 Nous utilisons les données fournies par l'API pour construire et enrichir notre base de données.
-[Préparation](../rendu/3 - Préparation.ipynb)
+[Préparation](<../rendu/3 - Préparation.ipynb>)
 
 ## Analyse 
 Nous commençons par faire quelques statistiques descriptives sur notre base. Nous les utilisons pour répondre aux premières questions que se posent le joueur TTFL au moment de faire son choix.
 
 ## Prédiction
 Nous explorons des modèles de Machine Learning (Lasso, Ridge, RandomForest) afin de prédire le score TTFL.
-[Prédiction](../rendu/5 - Modèles.ipynb)
+[Prédiction](<../rendu/5 - Modèles.ipynb>)
 
 
 ```python
