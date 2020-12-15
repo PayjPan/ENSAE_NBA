@@ -24,7 +24,7 @@ Nous récupérons les données nécéssaires à la construction d'un grande base
 [Récupération](<../master/rendu/2 - Récupération.ipynb>)
 
 ## Préparation
-Nous faisons des opérations sur la base de données pour pouvoir lui appliquer les modèles. En particulier, enlever la temporalitée des données : on ne doit pas connaitre le résultat du match avant que celui-ci ne soit jouer. 
+Nous faisons des opérations sur la base de données pour pouvoir lui appliquer les modèles. En particulier, enlever la temporalité des données : on ne doit pas connaitre le résultat du match avant que celui-ci ne soit joué. 
 [Préparation](<../master/rendu/3 - Préparation.ipynb>)
 
 ## Analyse 
