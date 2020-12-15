@@ -5,7 +5,7 @@ Ce projet réalisé le cadre du cours Python pour le Data Scientist de 2A, a pou
 ## Introduction
 
 Dans le cadre de ce projet python, nous nous sommes intéressés aux statistiques de la NBA avec une idée en tête, gagner la 
-Trashtalk Fantansy League. 
+Trashtalk Fantasy League. 
 #### Qu'est-ce que la TrashTalk Fantasy League (TTFL)
 Chaque soir où un match NBA se joue, les joueurs de TTFL ont la possibilité de selectionner un joueur, à partir des performances effectives
 de ce dernier, un score est calculé : le score TTFL. C'est ce score là qui est alors réalisé par le joueur de TTFL.
