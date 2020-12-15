@@ -34,3 +34,9 @@ Nous commençons par faire quelques statistiques descriptives sur notre base. No
 ## Prédiction
 Nous explorons des modèles de Machine Learning (Lasso, Ridge) afin de prédire le score TTFL.
 [Prédiction](<../master/rendu/5 - Modèles.ipynb>)
+
+## Prolongements
+Dans le fond, c'est surtout le classement prédit qui nous intéresserait pour choisir un joueur chaque soir. Si les prédictions sont à côté de la réalité mais correctement ordonnées alors le contrat est rempli.
+    On pourrait essayer de comparer nos modèles de regression (qui prédisent le score) à des modèles de classification (qui prédiraient si un joueur sera dans le top 10). On pourrait également comparer nos modèles linéaires à des modèles non-linéaires (RandomForest par exemple)
+    Dans la mesure où l'on ne peut choisir un joueur qu'une fois tous les 30 jours, il serait intéressant d'implémenter un algorithme qui optimise le choix des joueurs pour maximiser le total de point engrangés sur 30 jours.
+    Affaire à suivre...
